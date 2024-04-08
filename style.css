@@ -1,0 +1,14 @@
+div {
+    border: 1px solid ;
+    background-color: rgb(163, 160, 160);
+    width: 350px;
+    padding: 20px;
+}
+
+.divv {
+    text-align: center;
+}
+
+body{
+    background-color: rgb(223, 221, 221);
+}
